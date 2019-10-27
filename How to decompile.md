@@ -19,3 +19,13 @@ _[More versions here](https://pastebin.com/TLhXhm9n)_
 ➟ Extract the `srg` files and overwrite the files of the `patches` folder
 ##### Step 5. 
 ➟ Run `decompile.bat` and wait until its done.
+##### Step 6.
+➟ Open Eclipse and set the workplace to the `eclipse` folder of the MCP folder
+* [Exemple Here](https://imgur.com/PBOuXHD)
+##### Step 7.
+➟ After Eclipse has loaded everything. You'll need to re-import the natives. the natives should be located at `jars/versions/${VERSION}/${VERSION}-natives`
+##### Final Step.
+➟ Now just click on the `debug` or the `run as` button to start minecraft. <br/>
+<br/>
+##### PS:
+➟ You can't log into `online-mode=true` servers. But you can still join cracked servers/networks
