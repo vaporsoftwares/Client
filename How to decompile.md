@@ -12,7 +12,7 @@
 ##### Step 3.
 ➟ Download the `srg` for your version
 * [1.12.2](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp/1.12.2/mcp-1.12.2-srg.zip)
-* [1.8.9](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp/1.12.2/mcp-1.8.9-srg.zip)
+* [1.8.9](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp/1.8.9/mcp-1.8.9-srg.zip)
 * [1.7.10](http://files.minecraftforge.net/maven/de/oceanlabs/mcp/mcp/1.7.10/mcp-1.7.10-srg.zip)<br/>
 _[More versions here](https://pastebin.com/TLhXhm9n)_
 ##### Step 4.
