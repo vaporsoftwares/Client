@@ -1,4 +1,4 @@
-###### How to debug minecraft in eclipse wORkiNG 2019 oMGG!!!!11!!!11!!! (sorry)
+###### How to debug minecraft in eclipse - alphar, you saw nothing.
 
 ##### Prerequirements 
 * [Eclipse IDE](https://eclipse.org/)
